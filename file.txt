@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 
 This feature was approved by the big boss.
 
 boss.
 
+=======
+This is a very important feature of this project!
+
+This feature was approved by the big boss.
+
+This feature will be extended a lot in the future.
+>>>>>>> 177128f637d508f8033c3c0712f5e078b19505eb
